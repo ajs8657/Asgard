@@ -1,0 +1,18 @@
+# Ignore everything
+/*
+
+# Unignore these directories
+!.gitignore
+!.clang-format
+!/src
+!/vendor
+
+# Unignore these files
+!README.md
+!LICENSE.txt
+!CMakeLists.txt
+
+# Reignore these files
+*.vcxproj
+*.filters
+*.user

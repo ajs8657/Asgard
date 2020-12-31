@@ -1,0 +1,12 @@
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/glfw/glfw
+[submodule "vendor/glad"]
+	path = vendor/glad
+	url = https://github.com/dav1dde/glad
+[submodule "vendor/Logg"]
+	path = vendor/Logg
+	url = https://github.com/ajs8657/Logg
+[submodule "vendor/ThorEngine"]
+	path = vendor/ThorEngine
+	url = https://github.com/ajs8657/ThorEngine
